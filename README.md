@@ -2,7 +2,7 @@
 
 <img src="https://img.freepik.com/premium-photo/programmer-woman-coding-computer-coder-girl_1168123-42920.jpg" width="100%" />
 
-# 👋 Hi, I'm Ishwar Bade
+# 👋 Hi, I'm Prerna Jaju
 
 ###  Fullstack Developer⚡Java Developer ⚡ C++ Developer ⚡ Problem Solver
 
@@ -13,7 +13,7 @@
 # 💻 About Me
 
 ```cpp
-class IshwarBade {
+class Prerna Jaju {
 public:
 
     string role = "Java Backend Developer";
@@ -45,7 +45,7 @@ public:
 
 📚 Learning Spring Boot, Hibernate & System Design
 
-📧 work.ishwarbade@gmail.com
+📧 prernajaju1709@gmail.com
 
 ---
 
@@ -81,7 +81,7 @@ public:
 - Redis Integration
 - Performance Optimization
 
-🔗 https://github.com/ishwarbade3/Cache-Handling
+🔗 https://github.com/(add your project link)
 
 </td>
 
@@ -94,7 +94,7 @@ public:
 - Multithreading
 - JDBC
 
-🔗 https://github.com/ishwarbade3/Java_at_CDAC
+🔗 https://github.com/PrernaJaju
 
 </td>
 </tr>
@@ -106,14 +106,14 @@ public:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishwarbade3&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrernaJaju&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishwarbade3&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrernaJaju&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ishwarbade3&theme=chartreuse-dark&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrernaJaju&theme=chartreuse-dark&hide_border=true"/>
 </p>
 
 ---
@@ -122,15 +122,15 @@ public:
 
 <p align="center">
 
-<a href="https://linkedin.com/in/ishwarbade">
+<a href="https://linkedin.com/in/PrernaJaju">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://leetcode.com/ishwarbade">
+<a href="https://leetcode.com/PrernaJaju">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="mailto:work.ishwarbade@gmail.com">
+<a href="mailto:prernajaju1709@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -148,7 +148,7 @@ public:
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ishwarbade3&label=PROFILE+VISITORS&color=00ff41&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=PrernaJaju&label=PROFILE+VISITORS&color=00ff41&style=for-the-badge"/>
 
 <br><br>
 
