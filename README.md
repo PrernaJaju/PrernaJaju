@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://backiee.com/static/wallpapers/1920x1080/386745.jpg" width="100%" />
+<img src="https://img.freepik.com/premium-photo/programmer-woman-coding-computer-coder-girl_1168123-42920.jpg" width="100%" />
 
-# 👋 Hi, I'm [YOUR FULL NAME]
+# 👋 Hi, I'm Ishwar Bade
 
-###  [YOUR ROLE / Short tagline — e.g. Fullstack Developer • Java Developer • Problem Solver]
+###  Fullstack Developer⚡Java Developer ⚡ C++ Developer ⚡ Problem Solver
 
 </div>
 
@@ -13,35 +13,39 @@
 # 💻 About Me
 
 ```cpp
-class [YourName] {
+class IshwarBade {
 public:
 
-    string role = "[Your primary role — e.g. Java Backend Developer]";
+    string role = "Java Backend Developer";
 
-    string education = "[Your education — e.g. B.E. Computer Science / PG-DAC (CDAC ACTS)]";
+    string education = "PG-DAC (CDAC ACTS)";
 
-    int dsaSolved = [Number of DSA problems solved — e.g. 150];
+    int dsaSolved = 150;
 
     vector<string> skills = {
-        "Skill 1",
-        "Skill 2",
-        "Skill 3",
-        "Skill 4"
+        "Java",
+        "Spring Boot",
+        "Hibernate",
+        "MySQL",
+        "C++",
+        "Git",
+        "REST APIs",
+        "DSA"
     };
 
-    string goal = "[A short goal statement — e.g. Build Scalable Software Products]";
+    string goal = "Build Scalable Software Products";
 };
 ```
 
-🚀 [Short sentence about current focus — e.g. Pursuing PG-DAC at CDAC ACTS]
+🚀 Pursuing PG-DAC at CDAC ACTS
 
-💻 [Primary job title — e.g. Java Backend Developer]
+💻 Java Backend Developer
 
-🔥 Solved [dsaSolved]+ DSA Problems
+🔥 Solved 150+ DSA Problems
 
-📚 Learning [Technologies you're learning — e.g. Spring Boot, Hibernate & System Design]
+📚 Learning Spring Boot, Hibernate & System Design
 
-📧 [your-email@example.com]
+📧 work.ishwarbade@gmail.com
 
 ---
 
@@ -71,23 +75,26 @@ public:
 <tr>
 <td width="50%">
 
-### Project One (Short title)
+### Cache Handling
 
-- One-line description or tech highlights
-- Key features, e.g., Spring Boot, REST APIs, Caching
+- Spring Boot Caching
+- Redis Integration
+- Performance Optimization
 
-🔗 https://github.com/PrernaJaju/your-project-1
+🔗 https://github.com/ishwarbade3/Cache-Handling
 
 </td>
 
 <td width="50%">
 
-### Project Two (Short title)
+### Java at CDAC
 
-- One-line description or tech highlights
-- Key features, e.g., Java, Multithreading, Database
+- Core Java
+- Collections
+- Multithreading
+- JDBC
 
-🔗 https://github.com/PrernaJaju/your-project-2
+🔗 https://github.com/ishwarbade3/Java_at_CDAC
 
 </td>
 </tr>
@@ -99,14 +106,14 @@ public:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrernaJaju&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishwarbade3&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrernaJaju&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishwarbade3&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrernaJaju&theme=chartreuse-dark&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ishwarbade3&theme=chartreuse-dark&hide_border=true"/>
 </p>
 
 ---
@@ -115,21 +122,23 @@ public:
 
 <p align="center">
 
-<a href="[https://linkedin.com/in/your-linkedin]">
+<a href="https://linkedin.com/in/ishwarbade">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="[https://leetcode.com/your-username]">
+<a href="https://leetcode.com/ishwarbade">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="mailto:[your-email@example.com]">
-<img src="https://img.freepik.com/premium-photo/programmer-woman-coding-computer-coder-girl_1168123-42920.jpg"/>
+<a href="mailto:work.ishwarbade@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
 ---
+
+
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -139,7 +148,7 @@ public:
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=PrernaJaju&label=PROFILE+VISITORS&color=00ff41&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=ishwarbade3&label=PROFILE+VISITORS&color=00ff41&style=for-the-badge"/>
 
 <br><br>
 
