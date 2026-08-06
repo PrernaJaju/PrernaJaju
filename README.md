@@ -4,28 +4,9 @@ Welcome to my profile repository! I'm Prerna — a developer learning and buildi
 
 ## About Me
 
-- 👩‍💻 I'm passionate about learning to code and building fun projects.
-- 🎯 Currently focused on small games and interactive projects.
-- 🔭 I’m currently working on a Snake Game project (more details below).
+- 👩‍💻 I'm passionate about learning to code and building projects.
 - 🌱 I’m learning new technologies and improving my programming skills every day.
 
-## Current Projects
-
-### Snake Game (In progress)
-- Short description: A classic Snake game where the player controls a snake to eat food and grow longer while avoiding collisions.
-- Status: In progress
-- Tech (example): Python + Pygame or JavaScript + HTML/CSS — replace with the actual tech you're using.
-- What I'm learning: game loops, collision detection, input handling, simple graphics, and state management.
-
-How to run (example for Python + Pygame):
-1. Install Python 3.8+ and pip.
-2. Install dependencies: `pip install pygame`
-3. Run: `python snake.py`
-
-How to run (example for JS + HTML):
-1. Open `index.html` in your browser or run a simple HTTP server (`npx http-server`).
-
-Add links to the project folder once it's committed so visitors can explore the code and play the game.
 
 ## Skills
 
@@ -36,7 +17,7 @@ Add links to the project folder once it's committed so visitors can explore the 
 ## Contact
 
 - GitHub: https://github.com/PrernaJaju
-- Email: youremail@example.com (replace with your email or remove if you prefer not to share)
+- Email: youremail@example.com
 
 ---
 
